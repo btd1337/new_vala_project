@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Copyright 2017 Helder Bertoldo <helder.bertoldo@gmail.com> -->
+<component type="desktop">
+    <id>com.github.btd1337.new_vala_project.desktop</id>
+    <metadata_license>CCO</metadata_license>
+    <name>Hello-World</name>
+    <summary>A Catchy Tagline</summary>
+    <description>
+        <p>A quick summary of your app's main sellings points a features. Just a couple sentences per paragraph is best.
+        </p>
+    </description>
+    <custom>
+     <value key="x-appcenter-color-primary">#603461</value>
+     <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+     <value key="x-appcenter-suggested-price">2</value>
+  </custom>
+</component>
